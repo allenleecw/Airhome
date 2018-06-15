@@ -1,24 +1,35 @@
-# README
+##Project Title
+Airhome 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##Description 
+An Airbnb clone- list your home for rent and search for properties to rent for your holidays
 
-Things you may want to cover:
+##Getting Started
+Prerequisites
+Please make sure you have Ruby 2.3 installed in your machine 
 
-* Ruby version
+##Installing
+1. Install the [bundler gem](http://bundler.io/) by running:
+``gem install bundler``
 
-* System dependencies
+2. Install all gems and dependencies by running:
+``bundle install``
 
-* Configuration
+3. Migrate database by running: 
+``rails db:migrate``
 
-* Database creation
+##Running the tests
 
-* Database initialization
 
-* How to run the test suite
+##Test Senarios
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+##Considerations when building 
 
-* ...
+
+
+
+
+
+
+
